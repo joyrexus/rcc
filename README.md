@@ -2,7 +2,8 @@
 
 * [todo](todo.md) - quick tasklist items
 * [projects](projects.md) - initial project notes
-* [proposals](proposals.md) - a few ideas to pitch
+* [proposals](proposals.md) - a few modest proposals
+* [workshops](workshops.md) - possible workshops and tutorials
 
 
 # Resources
