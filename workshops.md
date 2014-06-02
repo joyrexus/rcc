@@ -13,7 +13,8 @@ Leveraging existing tutorial and course content ...
 
 * [Interactive dashboards with D3 and Crossfilter](http://square.github.io/crossfilter/)
 
-  * [crossfilter tutorial](https://github.com/joyrexus/crossfiltering/blob/master/tutorial/index.coffee.md)
+  See also ...
+  * [a quick crossfilter tutorial](https://github.com/joyrexus/crossfiltering/blob/master/tutorial/index.coffee.md)
   * [dc.js](http://dc-js.github.io/dc.js/) - dimensional charting framework
     based on D3 and crossfilter.
   * [catcorr.js](http://deanmalmgren.github.io/catcorrjs/) - ditto for
