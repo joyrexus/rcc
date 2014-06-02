@@ -2,11 +2,12 @@
 
 Notes and resources.
 
+* [todo](todo.md) - quick tasklist items
 
-## Resources
+* [projects](projects.md) - initial project notes
 
-* [docs](http://docs.rcc.uchicago.edu/)
+* [docs](http://docs.rcc.uchicago.edu/) - general user docs
 
-* [redmine](redmine.rcc.uchicago.edu)
+* [redmine](redmine.rcc.uchicago.edu) - internal project managment and wiki
 
-* [ticketing](rt.rcc.uchicago.edu)
+* [tix](rt.rcc.uchicago.edu) - internal ticketing system
