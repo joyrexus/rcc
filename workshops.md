@@ -2,11 +2,11 @@
 
 Leveraging existing tutorial and course content ...
 
+* [Functional Python with PyToolz](https://github.com/mrocklin/pydata-toolz)
+
 * [The Data Scientist's Toolbox](https://www.coursera.org/course/datascitoolbox)
 
-* [Intro to Data Analysis with Julia](https://www.youtube.com/playlist?list=PLP8iPy9hna6Si2sjMkrPY-wt2mEouZgaZ)
-
-* [Functional Python with PyToolz](https://github.com/mrocklin/pydata-toolz)
+* [Intro to Data Analysis with Julia](https://www.youtube.com/playlist?list=PLP8iPy9hna6Si2sjMkrPY-wt2mEouZgaZ) - [why Julia?](http://www.evanmiller.org/why-im-betting-on-julia.html)
 
 
 ## Possible tutorials for internal staff
