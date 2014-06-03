@@ -1,7 +1,7 @@
 # RCC
 
 * [todo](todo.md) - quick tasklist items
-* [projects](projects.md) - initial project notes
+* [projects](projects/README.md) - initial project notes
 * [proposals](proposals.md) - a few modest proposals
 * [workshops](workshops.md) - possible workshops and tutorials
 
