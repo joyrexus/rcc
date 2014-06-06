@@ -2,6 +2,10 @@
 
 Get background info from Robin.
 
+## XROMM
+
+See [notes](xromm.md).
+
 
 ## Lightsheet Microscopy Data Transfers
 
