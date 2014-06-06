@@ -13,6 +13,6 @@
 
 - [ ] Look into Globus Publishing.
 
+  * [globus publishing](https://www.globus.org/data-publication)
   * [globus project overview](http://www.slideshare.net/ianfoster/140415-globus-worldkeynote)
-  * [publication and discovery demo](http://www.slideshare.net/ianfoster/globus-publication-demo-screenshots)
 
