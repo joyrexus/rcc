@@ -13,6 +13,10 @@
 
 * Use [hapi](http://hapijs.com/) as a [web services](http://martinfowler.com/articles/microservices.html) framework.
 
+* Derive a coding and design styleguide based on those used at
+  [github](https://github.com/styleguide) and
+  [mapbox](https://www.mapbox.com/base/).
+
 * Use the [data package](http://dataprotocols.org/data-packages/) spec as a
   baseline convention for data package metadata.
 
