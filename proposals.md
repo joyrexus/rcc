@@ -11,6 +11,8 @@
 
   See [example project](https://github.com/dssg/bikeshare).
 
+* Use [hapi](http://hapijs.com/) as a [web services](http://martinfowler.com/articles/microservices.html) framework.
+
 * Use the [data package](http://dataprotocols.org/data-packages/) spec as a
   baseline convention for data package metadata.
 
@@ -19,3 +21,4 @@
 
 * Test out [dat](https://github.com/maxogden/dat) as a basis for real-time
   replication and versioning for large tabular data sets.
+
