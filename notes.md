@@ -14,3 +14,8 @@ Notes and references for immediate needs.
 * [details on the build process](https://w3.rcc.uchicago.edu/redmine/projects/rcc/wiki/Software_build_process_changes)
 
 
+## Authentication
+
+* [shibboleth](http://en.wikipedia.org/wiki/Shibboleth_(Internet2\))
+  * [uchicago overview](http://answers.uchicago.edu/page.php?id=16208)
+  * [uchicago deployment](https://wiki.uchicago.edu/display/idm/Shibboleth+information+for+new+deployers#)
