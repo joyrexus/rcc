@@ -21,5 +21,5 @@
 
 - [ ] Work through [hapi.js](http://hapijs.com/getting-started) tutorials.
   - [ ] [3.0 overview](https://medium.com/the-javascript-collection/the-pursuit-of-hapi-ness-d82777afaa4b)
-  - [ ] [basic rest api](http://blog.modulus.io/nodejs-and-hapi-create-rest-api
+  - [ ] [basic rest api](http://blog.modulus.io/nodejs-and-hapi-create-rest-api)
   - [ ] [azure backend](http://weblogs.asp.net/shijuvarghese/building-an-api-in-node-js-using-hapi-js-and-azure-table)
