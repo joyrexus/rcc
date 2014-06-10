@@ -8,7 +8,7 @@
 * [rcc-uchicago](https://github.com/rcc-uchicago) - RCC's github org account
 
 
-# Resources
+## Resources
 
 * [docs](http://docs.rcc.uchicago.edu/) - general user docs
 * [wiki](https://w3.rcc.uchicago.edu/redmine/projects/rcc/wiki/Wiki) - internal wiki
