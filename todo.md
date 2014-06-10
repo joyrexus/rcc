@@ -4,7 +4,7 @@
 
 - [x] Request free private repos for our educational account. (Obtained!)
 
-- [x] Articulate the mission of the [RCC Services Group](services.md).
+- [x] Articulate the mission of the [RCC Services Group](services/README.md).
 
 - [x] Start a list of recommended protocols, tools, and workflows for
   reproducible research. (See [proposals](proposals.md).)

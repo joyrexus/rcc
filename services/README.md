@@ -31,17 +31,22 @@ A typical project typically moves through the following stages:
 * maintenance - where we undertake initial maintenance
 
 
-## Preliminaries
+#### Preliminaries
 
 Make clear up front what we deliver: a structured research dataset tailored
 to a specific research community.  To make clear what we mean by a research
 dataset, walk through [a working example](http://harvest.research.chop.edu/demo/) from a previous project.
 
 
-## Requirements
+#### Requirements
 
 We first want to clarify the audience and scope of the project.
 
 Who is the audience for this dataset?  Which researchers might use this dataset?  Are these researchers located within the university community?  
 
 Authentication/Permissions: will users need differentiated levels of access to the data?
+
+
+## Tools
+
+See our list of standard [tools](tools.md).
