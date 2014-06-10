@@ -50,3 +50,11 @@ Authentication/Permissions: will users need differentiated levels of access to t
 ## Tools
 
 See our list of standard [tools](tools.md).
+
+
+## Inspiration
+
+* [harvest](http://harvest.research.chop.edu/) - toolkit for building web apps
+  for for integrating, discovering, and reporting data
+* [dat](http://dat-data.com/) - open source tool that enables the sharing 
+  of large datasets
