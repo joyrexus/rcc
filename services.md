@@ -11,13 +11,13 @@ stages of their research efforts.  Some of the data they collect is potentially 
 
 For our purposes, a **research dataset** consists of the following components:
 
-* store - a structured datastore
-* apis - a restful api exposing this collection
-* docs - describing the datastore's schema and api
-* views - various views on the data
-  * filters - a simple query interface
-  * dashboards - simple visualization and reporting tools
-* controls - authentication and permissions for restricting access
+* *store* - a structured datastore
+* *api* - a restful api exposing this collection
+* *docs* - describing the datastore's schema and api
+* *views* - various web-based views on the data
+  * *filters* - a simple query interface
+  * *dashboards* - aggregate views; simple visualization and reporting tools
+* *controls* - authentication and permissions for restricting access
 
 
 ## Workflow
