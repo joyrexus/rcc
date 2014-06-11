@@ -14,6 +14,14 @@ Notes and references for immediate needs.
 * [details on the build process](https://w3.rcc.uchicago.edu/redmine/projects/rcc/wiki/Software_build_process_changes)
 
 
+## Static file hosting
+
+It is possible to serve files from `$HOME/public_html` on Midway. The associated URL will be `http://users.rcc.uchicago.edu/~CNETID`.
+
+For this to work you need to make your home directory accessible (`/bin/chmod
+o+rx /home/$USER`).
+
+
 ## Authentication
 
 * [shibboleth](http://en.wikipedia.org/wiki/Shibboleth_(Internet2))
