@@ -4,7 +4,7 @@ We develop web and data services for research initiatives at the University of C
 
 ---
 
-The role of the RCC Services Group is to help research teams transform the data they collect during the lifecycle of their project into useful research datasets.  We help shape, extend, and preserve high-value data collections, making them available to a wider research community.  *Our mission is to promote innovative data-reuse and discovery*.
+The role of the RCC Services Group is to help research teams transform the data they collect during the lifecycle of their project into useful research datasets.  We help shape, extend, and preserve high-value data collections, making them available to a wider research community.  **Our mission is to promote innovative data-reuse and discovery**.
 
 Our users typically have large collections of data gathered at various stages of their research efforts.  Some of the data they collect is potentially useful for future research, much of it is not.  For any high-value collections, we work with them to distill, document, and expose their data in a meaningful way.
 Our role is to help them expose these data collections in a way that promotes discovery, enabling future researchers to more easily query these collections without being forced to think in terms a relational model and SQL statements.
