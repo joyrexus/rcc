@@ -14,18 +14,30 @@ principal function of our tooling around the dataset is to make it easy for
 researchers to filter and select the data of interest required for a particular
 analysis, which they would then export/download in a format suitable for whatever tools they're most comfortable with to carry out their final modeling and/or analysis.
 
-For our purposes, a **research dataset** consists of the following components:
+A **research dataset** should be understood to consists of the following elements:
 
 * *store* - a structured datastore
 * *api* - a restful api exposing this collection
-* *docs* - describing the datastore's schema and api
+* *docs* - structured documentation describing the datastore's schema and api
 * *views* - various web-based views on the data
   * *filters* - a simple query interface
   * *dashboards* - aggregate views; simple visualization and reporting tools
 * *controls* - authentication and permissions for restricting access
 
+
+## Process
+
 We intend to develop a standard process and framework for quickly constructing
 such custom research datasets where 80% of the code base is comprised of re-usable components. The remaining 20% is for customization of the components based on the particular needs of the project.
+
+We want to de-couple the data modeling and view specification process from the api and web app development process.
+
+We utilize the original team's domain expertise and knowledge of the underlying
+data collection to create a structured data model.  We then gather use cases
+and conduct a needs assessment from the targeted research community to
+get a rough picture of how they'd ideally like to explore this data model.
+
+With the data model articulated, we can then integrate the available data collections into a backend datastore.  We expose the resulting datastore through a restful api.  With the resulting data endpoints, we can then develop rich client-side data-exploration tools (i.e., customized query interfaces) targeted to the needs of a particular set of users (future researchers with analytical objectives perhaps quite distinct from the original research team that collected the underlying data).
 
 
 ## Workflow
@@ -50,7 +62,6 @@ Note that there are many stages in the construction of a research dataset. The
 RCC Services Group we'll typically get involved with a project after the bulk
 of the research data has been collected, though we should be willing to advise
 projects on their data collection efforts.  We'll most likely be involved in the data integration and schema definition efforts, but this will be guided by the particular use cases envisioned by our clients.  In other words, we're principally focused on the developing data exploration and general reporting tools for pre-existing data collections, where the tools are targeted at a specific audience of future reseachers.  We need to be very clear with our clients that they'll need to articulate the needs of these future users.  
-
 
 
 #### Requirements
