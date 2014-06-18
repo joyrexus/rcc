@@ -16,6 +16,10 @@ The following are smaller and more focused examples demonstrating how [crossfilt
 
 * [Canadian Crime Stats](http://dc-js.github.io/dc.js/crime/index.html) - clean and simple front-end for exploring Canadian crime stats.
 
+* [Recline Demos](http://okfnlabs.org/recline/demos/) - a set of examples
+  demonstrating the data exploration features provided by the
+  [recline.js](http://okfnlabs.org/recline/) client-side library.
+
 
 ---
 
@@ -34,5 +38,10 @@ The Stanford Humanities + Design team created this web-based platform for the vi
 
 For background and design details, see [this post](http://esjewett.com/blog/palladio) by the chief architect.
 
---- 
 
+### [CKAN](http://ckan.org)
+
+An open-source data portal platform primarily targeting civic data.  It's a
+python framework (using the Pylons web framework and SQLAlchemy ORM) with a postgres backend.  The framework provides exposes a web interface for basic data exploration tasks.  It also exposes an extensive [RESTful JSON API](http://docs.ckan.org/en/latest/api/index.html) for developers, enabling them to access and query hosted datasets via an HTTP client.
+
+A CKAN host can serve as a backend for a frontend client library, such as [recline.js](http://okfnlabs.org/recline/docs/), enabling the development of custom data-discovery interfaces.
