@@ -8,6 +8,13 @@ Notes and references for immediate needs.
 * [more tutorials](http://docs.rcc.uchicago.edu/tutorials/index.html)
 
 
+## Utilities
+
+* `id` - print real and effective user and group IDs
+* `usertool` - add, modify, delete, or show entries in the LDAP server
+* `phldap` - queries the UChicago LDAP server
+
+
 ## Software builds
 
 * [modules tutorial](http://docs.rcc.uchicago.edu/tutorials/modules.html) for existing builds
@@ -20,10 +27,3 @@ It is possible to serve files from `$HOME/public_html` on Midway. The associated
 
 For this to work you need to make your home directory accessible (`/bin/chmod
 o+rx /home/$USER`).
-
-
-## Authentication
-
-* [shibboleth](http://en.wikipedia.org/wiki/Shibboleth_(Internet2))
-  * [uchicago overview](http://answers.uchicago.edu/page.php?id=16208)
-  * [uchicago deployment](https://wiki.uchicago.edu/display/idm/Shibboleth+information+for+new+deployers)
