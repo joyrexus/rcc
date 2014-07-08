@@ -2,6 +2,7 @@
 
 * [todo](todo.md) - quick tasklist items
 * [notes](notes.md) - notes written on a need-to-know basis
+* [slurm](slurm.md) - slurm reference and quick tips
 * [projects](projects/README.md) - initial project notes
 * [proposals](proposals.md) - a few modest proposals
 * [workshops](workshops.md) - possible workshops and tutorials
