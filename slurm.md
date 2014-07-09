@@ -85,3 +85,12 @@ Example usage of `sacctmgr`:
     sacctmgr list qos format=Name,MaxNodes
 
     sacctmgr -P list qos format=Name
+
+Use `scancel` to kill a submitted job:
+
+    scancel JOB_ID
+
+Or to kill all your jobs in the queue:
+
+    scancel -u USERNAME
+
