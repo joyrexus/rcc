@@ -16,6 +16,8 @@ allocation, arbitration, and management.
 
 * It provides a framework for starting, executing, and monitoring work (normally a parallel job) on the set of allocated nodes. 
 
+Nice intro/overview [here](https://rc.fas.harvard.edu/resources/running-jobs/), providing context of use in a research computing center.
+
 
 ## Commands
 
@@ -36,6 +38,10 @@ There are a few tools available to work with accounting data: `sacct`, `sacctmgr
 * `sreport` - generate various reports on usage collected over a given time period
 
 The `sacct` command can report resource usage for running or terminated jobs including individual tasks, which can be useful to detect load imbalance between the tasks. The `sstat` command can be used to status only currently running jobs. It also can give you valuable information about imbalance between tasks. The `sreport` command can be used to generate reports based upon all jobs executed in a particular time interval.
+
+See also [this overview](http://docs.rcc.uchicago.edu/user-guide.html#managing-allocations) of the `accounts` command for managing allocations.
+
+    accounts [balance|usage|allocations|list|periods|partitions]
 
 
 ## Quick tips
