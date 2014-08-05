@@ -9,6 +9,17 @@ Notes and references for immediate needs.
 * [slurm docs](https://computing.llnl.gov/linux/slurm/)
 
 
+## Quick facts
+
+* The number of nodes on Midway varies per partition
+* The primary partition is `sandyb` with ...
+  * 275 nodes
+  * 16-cores per node
+* Each user is allowed to have ...
+  * 96 simultaneous jobs 
+  * 1536 cores allocated to their jobs
+
+
 ## Quick tips
 
 
