@@ -17,7 +17,20 @@ Notes and references for immediate needs.
 * `id` - print real and effective user and group IDs
 * `usertool` - add, modify, delete, or show entries in the LDAP server
 * `phldap` - queries the UChicago LDAP server
+* `accounts` - get SU allocation status
 * [rcchelp](https://w3.rcc.uchicago.edu/redmine/projects/rcc/wiki/Rcchelp_User_Guide) - in-house python wrapper around various utility commands
+
+
+#### Show SU allocation status by user
+
+Suppose you're curious to know who consumed the SUs for your pi-account.
+
+    accounts usage --byuser
+
+
+#### Use slurm to schedule periodic jobs
+
+See [`slurm-cron`](http://docs.rcc.uchicago.edu/software/scheduler/slurm-cron/README.html#slurm-cron) docs.
 
 
 #### Add/modify group membership
