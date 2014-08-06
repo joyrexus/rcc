@@ -32,6 +32,18 @@ Notes and references for immediate needs.
 * [rcchelp](https://w3.rcc.uchicago.edu/redmine/projects/rcc/wiki/Rcchelp_User_Guide) - in-house python wrapper around various utility commands
 
 
+#### Peruse internal docs
+
+The [redmine wiki](https://w3.rcc.uchicago.edu/redmine/projects/rcc/wiki/Wiki)
+still contains a lot of useful information.
+
+Lot's of staff generated docs can also be found on Midway under `/project/rcc`.
+
+In particular, note the `/project/rcc/project_reports`, which contains PDF
+files describing each of the RCC's significant project undertakings organized
+by Division.
+
+
 #### Show SU allocation status by user
 
 Suppose you're curious to know who consumed the SUs for your pi-account.
