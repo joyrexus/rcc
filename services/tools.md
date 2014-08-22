@@ -5,7 +5,7 @@ Core tools used by the RCC Services Group.
 
 ## Node 
 
-RCC Web Services leverages [Node](http://nodejs.org/) as a platform for easily building fast, scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications.  It enables rapid development of both HTTP+JSON APIs as well as native web apps.
+RCC Web Services leverages [Node](http://nodejs.org/) as a platform for easily building fast, scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications.  It enables rapid development of both HTTP+JSON APIs as well as native web apps via [browserify](http://browserify.org/).
 
 
 ## Server-side
@@ -13,6 +13,8 @@ RCC Web Services leverages [Node](http://nodejs.org/) as a platform for easily b
 * [hapi.js](http://hapijs.com/) - web services framework
 * [rethink-db](http://rethinkdb.com/) - nosql datastore
 * [level-db](http://leveldb.org/) - flexible, lightweight persistence
+* [seaport](https://github.com/substack/seaport) - service registry and port
+  assignment
 
 
 ## Client-side
@@ -22,6 +24,12 @@ RCC Web Services leverages [Node](http://nodejs.org/) as a platform for easily b
 * [level.js](https://github.com/maxogden/level.js) - leveldb for the browser
 * [npm-dom](https://github.com/npm-dom) - basic inventory of DOM modules
 
+#### ui-design
+
+* [bootstap-examples](http://getbootstrap.com/getting-started/#examples)
+* [form-builder](http://bootsnipp.com/forms)
+* [button-builder](http://bootsnipp.com/buttons)
+
 #### data manipulation
 
 * [nest.js](https://github.com/joyrexus/nest) - for data nesting and rollups
@@ -30,7 +38,12 @@ RCC Web Services leverages [Node](http://nodejs.org/) as a platform for easily b
 
 #### utilities
 
+* [minimist.js](https://github.com/substack/minimist) - arg parsing
 * [browserify.js](http://browserify.org/) - for packaging up modules
+
+#### testing 
+
+* [the-awesome-way](http://www.macwright.org/2014/03/11/tape-is-cool.html) - nice article explaining why we should use the TAP protocol
 * [tape.js](http://substack.net/how_I_write_tests_for_node_and_the_browser) -
   test harness for node and browsers
 
@@ -46,7 +59,7 @@ RCC Web Services leverages [Node](http://nodejs.org/) as a platform for easily b
 ## Reference
 
 * [art-of-node](https://github.com/maxogden/art-of-node#the-art-of-node) -
-  quick overview of the node ecosystem
+  nice overview of the node ecosystem
 * [human-js](http://read.humanjavascript.com/ch01-introduction.html) - best
   practices for building native HTML5 apps
 * [http-api-design](https://github.com/interagent/http-api-design) - best
