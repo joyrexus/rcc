@@ -26,9 +26,10 @@ RCC Web Services leverages [Node](http://nodejs.org/) as a platform for easily b
 
 #### ui-design
 
-* [bootstap-examples](http://getbootstrap.com/getting-started/#examples)
-* [form-builder](http://bootsnipp.com/forms)
+* [bootstrap-examples](http://getbootstrap.com/getting-started/#examples)
+* [bootsnip](http://bootsnipp.com/) - bootstrap-based design elements
 * [button-builder](http://bootsnipp.com/buttons)
+* [form-builder](http://minikomi.github.io/Bootstrap-Form-Builder/)
 
 #### data manipulation
 
