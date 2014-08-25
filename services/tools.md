@@ -10,11 +10,18 @@ RCC Web Services leverages [Node](http://nodejs.org/) as a platform for easily b
 
 ## Server-side
 
-* [hapi.js](http://hapijs.com/) - web services framework
-* [rethink-db](http://rethinkdb.com/) - nosql datastore
-* [level-db](http://leveldb.org/) - flexible, lightweight persistence
+* [hapi](http://hapijs.com/) - web services framework
 * [seaport](https://github.com/substack/seaport) - service registry and port
   assignment
+
+#### database
+
+* [dat](https://github.com/maxogden/dat) - an API for reading, writing and syncing datasets
+* [level-db](http://leveldb.org/) - flexible, lightweight persistence
+* [rethink-db](http://rethinkdb.com/) - nosql datastore
+* [mysql](https://github.com/felixge/node-mysql#mysql) - mysql bindings for
+  node
+* [sqlite3](https://github.com/mapbox/node-sqlite3) - sqlite3 bindings for node
 
 
 ## Client-side
@@ -42,19 +49,12 @@ RCC Web Services leverages [Node](http://nodejs.org/) as a platform for easily b
 * [minimist.js](https://github.com/substack/minimist) - arg parsing
 * [browserify.js](http://browserify.org/) - for packaging up modules
 
-#### testing 
-
-* [the-awesome-way](http://www.macwright.org/2014/03/11/tape-is-cool.html) - nice article explaining why we should use the TAP protocol
-* [tape.js](http://substack.net/how_I_write_tests_for_node_and_the_browser) -
-  test harness for node and browsers
-
 ##### visualization
 
 * [dc.js](http://dc-js.github.io/dc.js/) - crossfilter-driven charting
 * [epoch.js](http://fastly.github.io/epoch/) - real-time charting lib w/
 * [cubism.js](https://square.github.io/cubism/) - a D3 plugin for visualizing
-  time series, enabling better realtime dashboards
-  unified styling
+  time series, enabling better realtime dashboards unified styling
 
 
 ## Reference
@@ -65,3 +65,10 @@ RCC Web Services leverages [Node](http://nodejs.org/) as a platform for easily b
   practices for building native HTML5 apps
 * [http-api-design](https://github.com/interagent/http-api-design) - best
   practices for the design of an HTTP+JSON API
+* [finding-modules](http://substack.net/finding_modules) - recommended
+  principles for evaluating npm packages
+* [dat-modules](https://github.com/maxogden/dat/blob/master/docs/modules.md) -
+  descriptions of modules used in the `dat` project
+* [tape-is-cool](http://www.macwright.org/2014/03/11/tape-is-cool.html) - nice article explaining why we should use the TAP protocol 
+* [how-i-write-tests](http://substack.net/how_I_write_tests_for_node_and_the_browser) - test harness for node and browsers
+
