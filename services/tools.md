@@ -53,8 +53,7 @@ RCC Web Services leverages [Node](http://nodejs.org/) as a platform for easily b
 * [dc.js](http://dc-js.github.io/dc.js/) - crossfilter-driven charting
 * [epoch.js](http://fastly.github.io/epoch/) - real-time charting lib w/
 * [cubism.js](https://square.github.io/cubism/) - a D3 plugin for visualizing
-  time series, enabling better realtime dashboards
-  unified styling
+  time series, enabling better realtime dashboards unified styling
 
 
 ## Reference
