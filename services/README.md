@@ -86,6 +86,8 @@ See our list of standard [tools](tools.md).
 
 ## Inspiration
 
+* [palladio](http://palladio.designhumanities.org/) - Stanford
+  humanities+design project for visualizing multi-dimensional datasets.
 * [harvest](http://harvest.research.chop.edu/) - toolkit for building web apps
   for integrating, discovering, and reporting data.
 * [CKAN]() - framework for publishing datasets with a rich RESTful JSON API.
