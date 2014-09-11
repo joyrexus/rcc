@@ -114,3 +114,16 @@ For this to work you need to make your home directory accessible (`/bin/chmod
 o+rx /home/$USER`).
 
 
+#### Using local perl modules
+
+For local perl modules, using [`local::lib`](http://search.cpan.org/~haarg/local-lib-2.000014/lib/local/lib.pm) is likely the best option:
+
+    module load perl
+    eval $(perl -I ~/perl5/lib/perl5/ -Mlocal::lib)
+    cpanm Math::CDF
+    perl -e "require Math::CDF"
+
+The eval statement above needs to be done every login. You can do something like this to make it permanent:
+
+    echo '[ $SHLVL -eq 1 ] && eval "$(perl -I$HOME/perl5/lib/perl5 -Mlocal::lib)"' >>~/.bashrc
+
