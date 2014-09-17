@@ -11,6 +11,9 @@
 * collection metadata?
 
 * levels of access?
+  * browse collections
+  * access videos
+  * access metadata
 
 * granularity of access?
 

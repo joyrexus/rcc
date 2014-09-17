@@ -28,9 +28,16 @@ collection metadata?
 
 levels of access?
 
+* browse collections
+* access videos
+* access metadata
+
 ---
 
 granularity of access?
+
+* by collection 
+* by visit?
 
 ---
 
@@ -67,10 +74,12 @@ web-based playback of media within a collection?
 ---
 
 specify how to ...
-  ---
+
+---
 
 organize a collection at the file level
-  ---
+
+---
 
 document a collection
 
@@ -96,11 +105,19 @@ leverage databrary for authentication/permissions
 
 ---
 
+![user-permissions](https://github.com/databrary/design/blob/master/wireframes/user-permissions-management-tree.png)
+
+---
+
+![study-permissions](https://github.com/databrary/design/blob/master/wireframes/study-permissions-management-tree.png)
+
+---
+
 leverage databrary's [data organization guidelines](http://databrary.org/user-guide/contributing/organizing-your-data.html)
 
 ---
 
-transcode video to H.264/AAC format
+transcode video to [H.264/AAC format](http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/WebM-vs.-H.264-A-Closer-Look-68594.aspx)
 
 ---
 
@@ -116,7 +133,7 @@ focus on one clean, small, open collection
 
 ---
 
-use basic authentication (full access once authenticated)
+simple authentication scheme (full access once authenticated)
 
 ---
 
@@ -128,5 +145,29 @@ indexing of annotation
 
 ---
 
-simple query interface to search for instances 
-of specified annotation with constraints
+simple query interface 
+
+---
+
+... to search collections
+
+---
+
+![search](https://github.com/databrary/design/blob/master/wireframes/search-basic-results.png)
+
+---
+
+... but also ...
+
+---
+
+... to search for instances of specified annotation 
+
+---
+
+... with constraints
+
+---
+
+finis
+

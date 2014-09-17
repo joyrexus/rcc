@@ -17,7 +17,9 @@
   * measure
 
 * leverage databrary for authentication/permissions
+  * [user-permissions](https://github.com/databrary/design/blob/master/wireframes/user-permissions-management-tree.png)
+  * [study-permissions](https://github.com/databrary/design/blob/master/wireframes/study-permissions-management-tree.png)
 
-* transcode video to H.264/AAC format
+* transcode video to [H.264/AAC format](video-formats.md)
 
 * obtain a dedicated domain name (`archive.gslcenter.uchicago.edu`)
