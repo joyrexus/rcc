@@ -85,7 +85,11 @@ document a collection
 
 ---
 
-articulate your metadata organization by defining a data model (what are the things, their attributes, and relationships?)
+articulate your metadata organization by defining a data model 
+
+---
+
+what are the things, their attributes, and relationships?
 
 ---
 
