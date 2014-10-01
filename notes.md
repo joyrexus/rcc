@@ -132,3 +132,15 @@ The eval statement above needs to be done every login. You can do something like
 
     echo '[ $SHLVL -eq 1 ] && eval "$(perl -I$HOME/perl5/lib/perl5 -Mlocal::lib)"' >>~/.bashrc
 
+
+#### Retrieve project file backups
+
+You can retrieve files from the RCC online snapshot system which have hourly,
+daily, weekly, and monthly images of the project filesystem.
+
+Those files can be found at `/snapshots/project/{SNAPSHOT}/project/{PI-USER}/`, 
+where you can replace {SNAPSHOT} with the last time before you deleted the
+files, e.g. `hourly-2014-09-17.13h00`.
+
+Use the command "ls /snapshots/project" to obtain a list of the available
+snapshots.
