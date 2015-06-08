@@ -56,6 +56,11 @@ Suppose you're curious to know who consumed the SUs for your pi-account.
 See [`slurm-cron`](http://docs.rcc.uchicago.edu/software/scheduler/slurm-cron/README.html#slurm-cron) docs.
 
 
+#### Clarify slurm scheduling priorities
+
+See [`priority.md`](priority.md).
+
+
 #### Check how many processes a user is running
 
     ps -Lf -U USER | wc -l

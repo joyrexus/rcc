@@ -18,6 +18,8 @@ allocation, arbitration, and management.
 
 Nice intro/overview [here](https://rc.fas.harvard.edu/resources/running-jobs/), providing context of use in a research computing center.
 
+For an overview of slurm's job scheduling and resource allocation, see [`priority.md`](priority.md).
+
 
 ## Commands
 
